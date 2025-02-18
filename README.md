@@ -1,2 +1,2 @@
-# Images
-Images to use in other website
+#Practice
+Dorik AI website
